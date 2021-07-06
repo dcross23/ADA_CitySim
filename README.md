@@ -1,6 +1,7 @@
 # ADA CITY SIMULATION
-Little simulation of a city electricity production and consumption using concurrency in ADA.
- (For more information click [here](Practica_ADA.pdf))
+Little simulation of a city electricity production and consumption using concurrency in ADA. \
+(For more information click [here](Practica_ADA.pdf))
+ 
 ![](images/citysim.PNG)
 
 ## Usage
